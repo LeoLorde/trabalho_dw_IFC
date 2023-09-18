@@ -1,0 +1,350 @@
+.barra-pesquisa{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-top: -45px;
+}
+.barra-verde{
+    background-color: green;
+    height: 50px;
+    width: 1337px;
+}
+.banner{
+    width: 1337px;
+}
+.menu{
+    height: 30px;
+    width: 30px;
+    
+}
+.noticias{
+    font-size: 50px;
+    margin-right: 50%;
+}
+.cursostitulo{
+    font-size: 50px;
+    margin-left: 900px;
+    margin-top: -355px;
+    position: absolute;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+    
+}
+.titulos{
+    color: green;
+    max-width: 600px;
+    margin-left: 300px;
+    margin-top: -200px;
+    position: absolute;
+    
+}
+.textos{
+    max-width: 550px;
+    margin-left: 300px;
+    margin-top: -150px;
+    position: absolute;
+    color: black;
+}
+.img2{
+    width: 250px;
+    
+}
+.img3{
+    width: 150px;
+}
+.tituloimg3{
+    color: green;
+    position: absolute;
+    max-width: 250px;
+    margin-left: 170px;
+    margin-top: -105px;
+}
+.textoimg3{
+    max-width: 250px;
+    margin-left: 170px;
+    margin-top: -50px;
+    position: absolute;
+}
+.img4{
+    width: 150px;
+    margin-left: 500px;
+    margin-top: -115px;
+    position: absolute;
+    
+}
+.textoimg4{
+    max-width: 210px;
+    margin-left: 675px;
+    margin-top: -50px;
+    position: absolute;
+}
+.tituloimg4{
+    color: green;
+    position: absolute;
+    max-width: 202px;
+    margin-left: 675px;
+    margin-top: -90px;
+}
+.imgcurso{
+    position: absolute;
+    margin-left: 650px;
+}
+.banner2{
+    position: absolute;
+    height: 65px;
+    margin-left: 650px;
+    margin-top: -50x;
+    padding-top: 200px;
+}
+.banner3{
+    position: absolute;
+    height: 205px;
+    margin-left: 650px;
+    margin-top: -100x;
+    padding-top: 280px;
+}
+.bannerclifc{
+    position: absolute;
+    height: 97px;
+    margin-left: 650px;
+    margin-top: -50x;
+    padding-top: 500px;
+}
+.bannerenceja{
+    position: absolute;
+    height: 60px;
+    margin-left: 650px;
+    margin-top: -50x;
+    padding-top: 615px;
+}
+.banner-contra-ponto{
+    position: absolute;
+    height: 117px;
+    margin-left: 650px;
+    margin-top: -50x;
+    padding-top: 695px;
+}
+hr6 {
+    display: block;
+    margin-top: 300px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+  }
+.avisos{
+    font-size: 40px;
+    position: absolute;
+    margin-left: 10px;
+}
+.texto-avisos{
+    position: absolute;
+    max-width: 400px;
+    font-size: 15px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.agenda{
+    font-size: 40px;
+    margin-left: 440px;
+    position: absolute;
+}
+.texto-agenda{
+    position: absolute;
+    max-width: 400px;
+    font-size: 15px;
+    margin-top: 100px;
+    margin-left: 440px;
+}
+.editais{
+    font-size: 40px;
+    margin-left: 900px;
+    position: absolute;
+}
+.texto-editais{
+    position: absolute;
+    max-width: 400px;
+    font-size: 15px;
+    margin-top: 100px;
+    margin-left: 900px;
+}
+hr2 {
+    display: block;
+    margin-top: 800px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+}
+.botoes{
+    height: 85px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+.cursos{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 200px;
+}
+.texto-cursos{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 240px;
+}
+.alunos{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 200px;
+}
+.texto-alunos{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 240px;
+}
+.servidores{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 200px;
+}
+.texto-servidores{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 240px;
+}
+.departamento{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 200px;
+}
+.texto-departamento{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 240px;
+}
+.rodape{
+    margin-top: 40%;
+    position: absolute;
+}
+hr{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+}
+.titulo-not-1{
+    font-size: 30px;
+    position: absolute;
+}
+.data-texto-1{
+    position: absolute;
+    font-size: 10;
+    margin-top: 80px;
+}
+.img-not-1{
+    height: 250px;
+    margin-top: 130px;
+    position: absolute;
+}
+.texto-not-1{
+    position: absolute;
+    max-width: 900px;
+    margin-left: 400px;
+    margin-top: 130px;
+}
+.texto2-not-1{
+    position: absolute;
+    margin-top: 365px;
+}
+.referencia-not-1{
+    float: right;
+    margin-right: 30px;
+    margin-top: 420px;
+}
+.views{
+    margin-top: 420px;
+    position: absolute;
+}
+.titulo-not-2{
+    font-size: 30px;
+    position: absolute;
+}
+.data-texto-2{
+    position: absolute;
+    font-size: 10;
+    margin-top: 80px;
+}
+.img-not-2{
+    height: 320px;
+    margin-top: 130px;
+    position: absolute;
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.texto-not-2{
+    position: absolute;
+    max-width: 900px;
+    margin-left: 400px;
+    margin-top: 130px;
+}
+.texto2-not-2{
+    position: absolute;
+    margin-top: 490px;
+}
+.referencia-not-2{
+    float: right;
+    margin-right: 30px;
+    margin-top: 630px;
+}
+.views2{
+    margin-top: 630px;
+    position: absolute;
+}
+
+hr1 {
+    display: block;
+    margin-top: 300px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+  }
+
+hr4{
+    display: block;
+    margin-top: 500px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+}
+hr5{
+    display: block;
+    margin-top: 700px;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px;
+}
